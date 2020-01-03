@@ -1,0 +1,8 @@
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\bin\Debug\netstandard2.0\BookExchange.Services.Users.Core.deps.json
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\bin\Debug\netstandard2.0\BookExchange.Services.Users.Core.dll
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\bin\Debug\netstandard2.0\BookExchange.Services.Users.Core.pdb
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\obj\Debug\netstandard2.0\BookExchange.Services.Users.Core.csprojAssemblyReference.cache
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\obj\Debug\netstandard2.0\BookExchange.Services.Users.Core.AssemblyInfoInputs.cache
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\obj\Debug\netstandard2.0\BookExchange.Services.Users.Core.AssemblyInfo.cs
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\obj\Debug\netstandard2.0\BookExchange.Services.Users.Core.dll
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Core\obj\Debug\netstandard2.0\BookExchange.Services.Users.Core.pdb

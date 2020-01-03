@@ -1,0 +1,11 @@
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\bin\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.deps.json
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\bin\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.dll
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\bin\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.pdb
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\bin\Debug\netstandard2.0\BookExchange.Services.Users.Core.dll
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\bin\Debug\netstandard2.0\BookExchange.Services.Users.Core.pdb
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\obj\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\obj\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\obj\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.AssemblyInfo.cs
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\obj\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.csproj.CopyComplete
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\obj\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.dll
+C:\Users\ksmol\Desktop\bookexchange.microservices\BookExchange.Services.Users\src\BookExchange.Services.Users.Infrastructure\obj\Debug\netstandard2.0\BookExchange.Services.Users.Infrastructure.pdb
